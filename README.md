@@ -1,6 +1,8 @@
+
 # sparsevectorspackage
 
-An R package for storing and working with sparse numeric vectors using an S4 class.
+An R package for storing and working with sparse numeric vectors using
+an S4 class.
 
 ## Installation
 
