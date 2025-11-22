@@ -1,7 +1,7 @@
 
 # sparsevectorspackage
 
-![R-CMD-check](https://github.com/amandarob8/sparsevectorspackage/workflows/R-CMD-check/badge.svg)
+[![R-CMD-check](https://github.com/amandarob8/SDS375-sparsenumericpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/amandarob8/SDS375-sparsenumericpackage/actions/workflows/R-CMD-check.yaml)
 
 
 An R package for storing and working with sparse numeric vectors using
