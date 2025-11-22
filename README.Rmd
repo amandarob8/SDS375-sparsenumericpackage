@@ -1,47 +1,20 @@
----
-output: github_document
----
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
-
 # sparsevectorspackage
-
-<!-- badges: start -->
-
-<!-- badges: end -->
 
 An R package for storing and working with sparse numeric vectors using an S4 class.
 
 ## Installation
 
-You can install the development version of sparsevectorspackage like so:
-
-```{r}
+``` r
 # install.packages("remotes")
 remotes::install_github("amandarob8/sparsevectorspackage")
 ```
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
+``` r
 library(sparsevectorspackage)
 
-# Create a numeric vector
 x <- c(0, 5, 0, 2, 0, 3)
-
-# Convert to sparse
 sx <- as(x, "sparse_numeric")
-
-# Convert back to dense
 as(sx, "numeric")
-
 ```
