@@ -1,6 +1,9 @@
 
 # sparsevectorspackage
 
+![R-CMD-check](https://github.com/amandarob8/sparsevectorspackage/workflows/R-CMD-check/badge.svg)
+
+
 An R package for storing and working with sparse numeric vectors using
 an S4 class.
 
