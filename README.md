@@ -3,6 +3,8 @@
 
 [![R-CMD-check](https://github.com/amandarob8/SDS375-sparsenumericpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/amandarob8/SDS375-sparsenumericpackage/actions/workflows/R-CMD-check.yaml)
 
+[Visit the package website](https://your-username.github.io/SDS375-sparsenumericpackage/)
+
 
 An R package for storing and working with sparse numeric vectors using
 an S4 class.
